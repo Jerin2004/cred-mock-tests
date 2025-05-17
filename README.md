@@ -34,7 +34,7 @@ cred-mock-tests/
 ```
 ## ✅ Test Results Proof
 ![Passing Tests Screenshot](https://github.com/Jerin2004/cred-mock-tests/blob/main/pass.jpg)
-*Successful test execution - 2/2 tests passed in 3.92s*
+*Successful test execution - 2/2 tests passed in 2.42s*
 
 ## 🤝 How to Contribute
 1. Fork the repository
