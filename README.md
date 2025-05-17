@@ -1,6 +1,6 @@
 # 🚀 CRED Mock API Testing 
 
-![Project Banner](assets/banner.png) <!-- Add your banner image here -->
+![Project Banner](https://github.com/Jerin2004/cred-mock-tests/blob/main/cc.png) <!-- Add your banner image here -->
 
 A professional-grade API testing framework demonstrating automated testing practices for CRED-like financial applications.
 
