@@ -1,4 +1,4 @@
-# 🚀 CRED Mock API Testing Suite
+# 🚀 CRED Mock API Testing 
 
 ![Project Banner](assets/banner.png) <!-- Add your banner image here -->
 
@@ -14,11 +14,6 @@ A professional-grade API testing framework demonstrating automated testing pract
 - ✔️ CI/CD integration
 - ✔️ HTML test reporting
 - ✔️ Negative test case validation
-
-## 📸 Screenshots
-| Test Report | CI/CD Pipeline |
-|------------|----------------|
-| ![Test Report](assets/report-screenshot.png) | ![CI/CD](assets/ci-cd-screenshot.png) |
 
 ## 🛠️ Setup Guide
 
